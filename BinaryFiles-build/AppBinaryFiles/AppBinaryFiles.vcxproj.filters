@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\AppTestDB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\database.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\deleteDB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\UserComands.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\UserInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\AppTestDB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\database.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\deleteDB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\UserComands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\UserInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\UserDeleted.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\User\Pedro\Projects\BinaryFiles\BinaryFiles\AppBinaryFiles\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7DA3E29A-C9A1-317C-B416-10C6DF23F4CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{66EDDB4C-B969-3813-BE75-B7D4181923A7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

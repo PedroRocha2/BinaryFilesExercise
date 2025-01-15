@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+C:/User/Pedro/Projects/BinaryFiles/BinaryFiles-build/CMakeFiles/3.30.2/CMakeCXXCompiler.cmake
+C:/User/Pedro/Projects/BinaryFiles/BinaryFiles-build/CMakeFiles/3.30.2/CMakeRCCompiler.cmake
+C:/User/Pedro/Projects/BinaryFiles/BinaryFiles-build/CMakeFiles/3.30.2/CMakeSystem.cmake
+C:/User/Pedro/Projects/BinaryFiles/BinaryFiles/CMakeLists.txt
+C:/User/Pedro/Projects/BinaryFiles/BinaryFiles/includeCMake/AllProjsPreSettings.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/mingw64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/mingw64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/mingw64/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/mingw64/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/mingw64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/mingw64/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/mingw64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
